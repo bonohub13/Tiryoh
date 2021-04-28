@@ -1,8 +1,12 @@
-[![bonohub13's github stats](https://github-readme-stats.vercel.app/api?username=bonohub13&show_icons=true)](https://github.com/bonohub13/bonohub13)
+### Hello World!
+
+I'm a guy that loves writing codes in Python and C++ and trying to replecate those codes on C... I use Arch BTW
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bonohub13&margin-w=15)](https://github.com/bonohub13/bonohub13)
+[![bonohub13's github stats](https://github-readme-stats.vercel.app/api?username=bonohub13&count_private=false)](https://github.com/bonohub13/bonohub13)
+
 
 <!--
-### Hi there 👋
-
 **bonohub13/bonohub13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
